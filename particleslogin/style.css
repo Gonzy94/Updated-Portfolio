@@ -1,0 +1,141 @@
+body {
+  margin 0;
+  font: normal 16px Arial, Helvetica, sand-serif;
+  color: black;
+}
+
+#particles-js {
+  background: indigo;
+}
+
+#nav1
+{  
+  background-color: lightgray;        
+}
+
+/* home page */
+#greet {
+ position: absolute;
+ text-align: center;
+ padding-top: 300px;
+ padding-left: 490px;
+ color: lightgray;
+ text: bold;
+}
+
+#name-link {
+  color: #33FFFF;
+  text-decoration: none;
+}
+
+#form-heading {
+  text-align: center;
+  padding-bottom: 15px;
+  color: white;
+}
+
+/* contact page */
+#contact-input {
+  background: lightblue;
+  opacity: 0.9;
+  padding: 2em;
+  border: #ccc 2px solid;
+  position: absolute;
+  top: 250px;
+  left: 600px;
+  
+}
+
+#input {
+  margin: 10px;
+}
+
+#submit-btn {
+  left: 90px;
+  position: absolute;
+
+}
+
+#message-area {
+  width: 175px;
+  min-height: 100px;
+}
+
+/* about page */
+#about-card {
+  background: #33FFFF;
+  opacity: 0.9;
+  padding: 8em;
+  border: #ccc 2px solid;
+  position: absolute;
+  top: 200px;
+  left: 358px;
+  max-width: 60%;
+  max-height: 50%;
+}
+
+#self-image {
+  max-width: 35%;
+  max-height: 50%;
+  position: absolute;
+  top: 200px;
+  left: 50px;
+}
+
+/* portfolio page */
+#portfolio-card {
+  background: lightblue;
+  opacity: 0.9;
+  padding: 2em;
+  border: #ccc 2px solid;
+  position: absolute;
+  top: 250px;
+  left: 600px;
+}
+
+#first-project-btn {
+   background-color: indigo;
+   border: solid lightgrey;
+   color: white;
+   padding: 10px 14px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 15px;
+   margin: 4px 0px;
+   cursor: pointer;
+}
+
+#first-hw-btn {
+  background-color: indigo;
+   border: solid lightgrey;
+   color: white;
+   padding: 10px 14px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 15px;
+   margin: 4px 0px;
+   cursor: pointer;
+}
+
+#second-hw-btn {
+  background-color: indigo;
+   border: solid lightgrey;
+   color: white;
+   padding: 10px 14px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 15px;
+   margin: 4px 0px;
+   cursor: pointer;
+}
+
+
+
+@media (min-width: 600px) {
+   #greet {
+     padding-top:  
+   }
+}
