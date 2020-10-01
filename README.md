@@ -24,7 +24,7 @@ The website meets all of the project requirements including the following:
 
 This site can be accessed by clicking the link below:
 
-https://rkraeher.github.io/SuggestSoCal/
+https://gonzy94.github.io/Updated-Portfolio/
 
 ## Built With
 * HTML
